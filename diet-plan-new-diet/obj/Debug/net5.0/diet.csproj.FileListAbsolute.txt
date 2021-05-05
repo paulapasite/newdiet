@@ -1,0 +1,15 @@
+/Users/paulapasite/Desktop/diet/bin/Debug/net5.0/diet.deps.json
+/Users/paulapasite/Desktop/diet/bin/Debug/net5.0/diet.runtimeconfig.json
+/Users/paulapasite/Desktop/diet/bin/Debug/net5.0/diet.runtimeconfig.dev.json
+/Users/paulapasite/Desktop/diet/bin/Debug/net5.0/diet.dll
+/Users/paulapasite/Desktop/diet/bin/Debug/net5.0/ref/diet.dll
+/Users/paulapasite/Desktop/diet/bin/Debug/net5.0/diet.pdb
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/diet.csprojAssemblyReference.cache
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/diet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/diet.AssemblyInfoInputs.cache
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/diet.AssemblyInfo.cs
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/diet.csproj.CoreCompileInputs.cache
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/diet.dll
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/ref/diet.dll
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/diet.pdb
+/Users/paulapasite/Desktop/diet/obj/Debug/net5.0/diet.genruntimeconfig.cache
